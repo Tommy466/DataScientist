@@ -31,11 +31,11 @@ Lancer le fichier 01_cryptocurrencies.rb dans le terminal,
 
 Une fois lancer notre programme vas repondre au question suivant:
 
-	1.1 Donne moi la (ou les) crypto qui a la plus grosse valeur
-	1.2 Donne moi la (ou les) crypto qui a la plus petite valeur
-	1.3 Combien de crypto contiennent le mot "coin" ?
-	1.4 Sors moi tout les devises, dont le cours est inférieur à 6000 (indice: pense bien à enlever le $ pour pouvoir faire une comparaison)
-	1.5 Quel est le cours le plus haut parmi celle-la ?
+	2.1 Donne moi la (ou les) crypto qui a la plus grosse valeur
+	2.2 Donne moi la (ou les) crypto qui a la plus petite valeur
+	2.3 Combien de crypto contiennent le mot "coin" ?
+	2.4 Sors moi tout les devises, dont le cours est inférieur à 6000 (indice: pense bien à enlever le $ pour pouvoir faire une comparaison)
+	2.5 Quel est le cours le plus haut parmi celle-la ?
 
 
 #**Auteurs**
